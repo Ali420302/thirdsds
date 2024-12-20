@@ -1,0 +1,42 @@
+[
+    {
+        "location_id": "121",
+        "city": "islamabd",
+        "manager_name": "ali",
+        "workout_zones": "sdad",
+        "equipment": "ad",
+        "amenities": "ads"
+    },
+    {
+        "location_id": "s",
+        "city": "s",
+        "manager_name": "s",
+        "workout_zones": "s",
+        "equipment": "s",
+        "amenities": "s"
+    },
+    {
+        "location_id": "sad",
+        "city": "asd",
+        "manager_name": "dsa",
+        "workout_zones": "ad",
+        "equipment": "da",
+        "amenities": "da"
+    },
+    {
+        "location_id": "qwe",
+        "city": "ewq",
+        "manager_name": "qe",
+        "workout_zones": "qe",
+        "equipment": "qew",
+        "amenities": "qew"
+    },
+    {
+        "location_id": "121",
+        "city": "islamabad",
+        "manager_name": "ali",
+        "workout_zones": "s",
+        "equipment": "sd",
+        "amenities": "sd"
+    }
+]

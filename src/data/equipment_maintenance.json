@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "equipment_name": "New Equipment",
+        "last_maintenance": "2024-12-21",
+        "next_maintenance": "2024-12-21",
+        "status": "Good"
+    }
+]

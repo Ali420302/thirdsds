@@ -1,0 +1,10 @@
+[
+    {
+        "payment_id": "1",
+        "member_id": "1",
+        "amount": "12",
+        "payment_date": "2001-11-11 11:11:11",
+        "payment_method": "card",
+        "subscription_type": "premium"
+    }
+]

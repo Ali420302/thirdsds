@@ -1,0 +1,18 @@
+[
+    {
+        "zone_id": "1",
+        "zone_type": "S",
+        "attendant_name": "S",
+        "updates": "S",
+        "schedules": "S",
+        "promotions": "S"
+    },
+    {
+        "zone_id": "11",
+        "zone_type": "ww",
+        "attendant_name": "ali",
+        "updates": "ww",
+        "schedules": "ww",
+        "promotions": "ww"
+    }
+]

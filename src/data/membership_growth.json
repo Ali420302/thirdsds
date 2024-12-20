@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "date": "2024-12-21",
+        "new_members": 5,
+        "total_members": 200
+    },
+    {
+        "id": 2,
+        "date": "2024-12-21",
+        "new_members": 5,
+        "total_members": 200
+    },
+    {
+        "id": 3,
+        "date": "2024-12-05",
+        "new_members": 15,
+        "total_members": 215
+    }
+]
